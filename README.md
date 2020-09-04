@@ -1,10 +1,10 @@
-### Pi
+### Z
 
 <p align="center">
-  <img src="demo.gif" alt="pi demo" width="75%">
+  <img src="demo.gif" alt="z demo" width="75%">
 </p>
 
-Pi is a minimal [oh-my-zsh](https://ohmyz.sh) theme for [z shell](https://www.zsh.org/).
+Z is a minimal [oh-my-zsh](https://ohmyz.sh) theme for [z shell](https://www.zsh.org/).
 
 ### Installation
 1. `mkdir $ZSH_CUSTOM/themes` _You can skip this command if the directory exists already_
